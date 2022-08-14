@@ -251,6 +251,10 @@ footer {
     background-color: #f2f2f2;
 }
 @media all and (max-width: 600px) {
+   .icon img {
+        width: 70px;
+        height: 70px;
+    }
     .header h1 {
         font-size: 1.4em;
     }
