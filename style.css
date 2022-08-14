@@ -225,7 +225,7 @@ header {
     color: var(--dark-grayish-blue);
 }
 .foot2 ul li a, .foot3 ul li a{
-    line-height: 30px;
+    line-height: 60px;
 }
 .foot1 img {
     height: 50px;
