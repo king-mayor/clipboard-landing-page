@@ -335,6 +335,10 @@ footer {
     }
 }
 @media all and (max-width: 900px){
+   .icon img {
+        width: 70px;
+        height: 70px;
+    }
     .header h1 {
         font-size: 1.4em;
     }
