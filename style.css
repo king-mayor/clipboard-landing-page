@@ -6,6 +6,9 @@
 body{
     font-family: 'Bree Serif', serif;
 }
+html {
+    scroll-behavior: smooth;
+}
 header {
     background-image: url(./IMAGES/bg-header-desktop.png);
     height: 350px;
